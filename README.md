@@ -1,2 +1,3 @@
-# Games
-It Contains basic games using Python
+# *Games*
+*It Contains Basic Games using Python*<br>
+Please :star: it 
